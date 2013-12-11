@@ -1,5 +1,6 @@
-PATH
-  remote: ../git-pivotal-tracker-integration
+GIT
+  remote: git://github.com/growthrepublic/git-pivotal-tracker-integration.git
+  revision: 6cd1a8f828d6eaae4aa4819c6f2da4ced4a1aee8
   specs:
     git-pivotal-tracker-integration (1.5.0.dev)
       highline (~> 1.6)

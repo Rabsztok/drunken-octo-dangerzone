@@ -7,7 +7,7 @@ gem 'rails', '3.2.14'
 
 gem 'sqlite3'
 
-gem 'git-pivotal-tracker-integration', :path => '../git-pivotal-tracker-integration'
+gem 'git-pivotal-tracker-integration', :github => 'growthrepublic/git-pivotal-tracker-integration'
 
 # Gems used only for assets and not required
 # in production environments by default.
